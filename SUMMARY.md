@@ -1,7 +1,7 @@
-# Table of contents
- These are some adventurous things I like to do:
+# Summary
 
+* [Introduction](README.md)
 * [Gardening](gardening.md)
-* [Reading](reading.md)
+* [Reading](reading.md/reading.md)
 * [Sleeping](sleeping.md)
 
