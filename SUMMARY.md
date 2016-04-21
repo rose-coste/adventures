@@ -1,3 +1,7 @@
-# Table of content
+# Table of contents
+ These are some adventurous things I like to do:
 
-* [First Chapter](chapter1.md)
+* [Gardening](gardening.md)
+* [Reading](reading.md)
+* [Sleeping](sleeping.md)
+
